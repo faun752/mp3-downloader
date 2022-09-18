@@ -1,4 +1,4 @@
-# How to import as a ringtone to itunes
+# How to import songs as ringtones to iphone
 1. execute a program.
    1. `node .`
 2. Connecting iphone and pc.
